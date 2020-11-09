@@ -1,1 +1,0 @@
-set origin_dir "."
